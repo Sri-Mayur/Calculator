@@ -40,6 +40,7 @@ A simple calculator web application with support for both button clicks and keyb
 ## How to Run
 
 - Copy the below link and paste it on the search bar of any browser (Recommended: Google Chrome):
+  https://sri-mayur.github.io/Calculator/
 
 
 ## Technologies Used
